@@ -1,0 +1,13 @@
+{
+    "name": "Classic Black Denim Jeans",
+    "description": "Versatile black jeans with a slim fit design. Made from premium denim.",
+    "details": {
+        "color": "black",
+        "material": "98% cotton, 2% elastane",
+        "style": "slim fit",
+        "care": "machine wash cold",
+        "sizes": ["28", "30", "32", "34", "36"]
+    },
+    "price": 79.99,
+    "category": "pants"
+} 

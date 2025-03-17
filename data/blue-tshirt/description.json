@@ -1,0 +1,13 @@
+{
+    "name": "Classic Blue Cotton T-Shirt",
+    "description": "Comfortable cotton t-shirt in a classic blue color. Perfect for casual wear.",
+    "details": {
+        "color": "blue",
+        "material": "100% cotton",
+        "style": "casual",
+        "care": "machine washable",
+        "sizes": ["S", "M", "L", "XL"]
+    },
+    "price": 29.99,
+    "category": "tops"
+} 

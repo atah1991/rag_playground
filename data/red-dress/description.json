@@ -1,0 +1,13 @@
+{
+    "name": "Elegant Red Evening Dress",
+    "description": "Stunning red evening dress with a flowing silhouette. Perfect for formal occasions.",
+    "details": {
+        "color": "red",
+        "material": "silk blend",
+        "style": "formal",
+        "care": "dry clean only",
+        "sizes": ["XS", "S", "M", "L"]
+    },
+    "price": 149.99,
+    "category": "dresses"
+} 
